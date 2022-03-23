@@ -1,0 +1,10 @@
+Nota Pembayaran:   
+1. Ayam Goreng : 34000
+2. Ayam Bakar  : 63000
+         ------------ x
+Biaya         = 97000
+Diskon 10%    = 9700
+         ------------ -
+Biaya Total   = 87300
+Bayar         = 100000         --------------
+Uang Kembalian  = 12700
